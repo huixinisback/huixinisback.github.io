@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 10;
+  box-sizing: border-box;
+}
+
+button{
+  color: #7b866f;
+}
