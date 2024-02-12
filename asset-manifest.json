@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/huixinisback.github.io/static/css/main.3748dc59.css",
+    "main.js": "/huixinisback.github.io/static/js/main.ec31b3ba.js",
+    "static/media/Card5.jpg": "/huixinisback.github.io/static/media/Card5.2ef8d2048d4eda96d5db.jpg",
+    "static/media/avatar.jpg": "/huixinisback.github.io/static/media/avatar.915a8b098e3e76a13994.jpg",
+    "static/media/profilePic.jpg": "/huixinisback.github.io/static/media/profilePic.decc0f2e25cb5739baf5.jpg",
+    "static/media/James.jpg": "/huixinisback.github.io/static/media/James.b2b443989469ad49ee54.jpg",
+    "static/media/Jaedon.jpg": "/huixinisback.github.io/static/media/Jaedon.10c18350f45fe25a60f3.jpg",
+    "static/media/Huixin.jpg": "/huixinisback.github.io/static/media/Huixin.273cd1bf777e5f7cc083.jpg",
+    "static/media/logol.png": "/huixinisback.github.io/static/media/logol.111fef2b02e8736bea32.png",
+    "static/media/Kimberly.jpg": "/huixinisback.github.io/static/media/Kimberly.ab6edc6828a33615c61d.jpg",
+    "index.html": "/huixinisback.github.io/index.html",
+    "main.3748dc59.css.map": "/huixinisback.github.io/static/css/main.3748dc59.css.map",
+    "main.ec31b3ba.js.map": "/huixinisback.github.io/static/js/main.ec31b3ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3748dc59.css",
+    "static/js/main.ec31b3ba.js"
+  ]
+}
