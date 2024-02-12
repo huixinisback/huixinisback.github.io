@@ -1,11 +1,10 @@
 import React from "react";
-import { Routes, Route } from "react-router-dom";
+import { Router, Routes, Route } from "react-router-dom";
 import Home from "./Home";
 import Login from "./Login";
 import ClothesGenerationPage from "../Tabs/ClothingGenerationPage";
 import ShopPage from "../Tabs/ShopPage";
 import AboutPage from "../Tabs/AboutPage";
-import HomePage from "../Tabs/HomePage";
 import Regsiter from "./Regsiter";
 import Reset from "./Reset";
 import FriendProfile from "./FriendProfile";
@@ -19,7 +18,8 @@ import ClothingGallery from "../Tabs/ClothingGallery";
 const Pages = () => {
   return (
     <div>
-  <Routes>
+  
+   <Routes>
     <Route path="/" element={<Home />} />
     <Route path="/login" element={<Login />} />
     <Route path="/register" element={<Regsiter />} />
@@ -32,7 +32,6 @@ const Pages = () => {
     <Route path="/upload" element={<ClothingUpload />} />
     <Route path="/gallery" element={<ClothingGallery />} />
 </Routes>
-
     </div>
   );
 };
