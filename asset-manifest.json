@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/huixinisback.github.io/static/css/main.3748dc59.css",
-    "main.js": "/huixinisback.github.io/static/js/main.dc86d2f8.js",
+    "main.js": "/huixinisback.github.io/static/js/main.ec31b3ba.js",
     "static/media/Card5.jpg": "/huixinisback.github.io/static/media/Card5.2ef8d2048d4eda96d5db.jpg",
     "static/media/avatar.jpg": "/huixinisback.github.io/static/media/avatar.915a8b098e3e76a13994.jpg",
     "static/media/profilePic.jpg": "/huixinisback.github.io/static/media/profilePic.decc0f2e25cb5739baf5.jpg",
@@ -12,10 +12,10 @@
     "static/media/Kimberly.jpg": "/huixinisback.github.io/static/media/Kimberly.ab6edc6828a33615c61d.jpg",
     "index.html": "/huixinisback.github.io/index.html",
     "main.3748dc59.css.map": "/huixinisback.github.io/static/css/main.3748dc59.css.map",
-    "main.dc86d2f8.js.map": "/huixinisback.github.io/static/js/main.dc86d2f8.js.map"
+    "main.ec31b3ba.js.map": "/huixinisback.github.io/static/js/main.ec31b3ba.js.map"
   },
   "entrypoints": [
     "static/css/main.3748dc59.css",
-    "static/js/main.dc86d2f8.js"
+    "static/js/main.ec31b3ba.js"
   ]
 }
